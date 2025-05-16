@@ -29,4 +29,4 @@ print("\nCombined Dataset Preview:")
 display(combined_information.head(1500))
 
 
-combined_information.to_csv("combined_dataset.csv", index=False)
+combined_information.to_csv("CoAID-master/combined_dataset.csv", index=False)
